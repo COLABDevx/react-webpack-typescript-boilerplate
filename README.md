@@ -10,7 +10,7 @@ npm install
 # **Scripts**
 ```
 npm run build - build static file
-npm run dev - develoment
+npm run dev - development
 ```
 ```
 build
